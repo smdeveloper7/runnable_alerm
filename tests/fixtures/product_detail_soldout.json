@@ -1,0 +1,1295 @@
+{
+ "status": "OK",
+ "data": {
+  "product": {
+   "id": 19627,
+   "name": "2026 GARMIN RUN KOREA",
+   "summery": "추가접수",
+   "isPost": true,
+   "postStartDateTime": "2026-08-27T14:00:00",
+   "postEndDateTime": "2026-11-15T23:50:00",
+   "productStatus": "ON_SALE",
+   "storeTargetId": 18962,
+   "storeTargetType": "COMP",
+   "contents": "<p style=\"text-align:center;\"><mark class=\"marker-yellow\"><strong>추가접수는 선착순으로 진행될 예정이며</strong></mark></p><p style=\"text-align:center;\"><mark class=\"marker-yellow\"><strong>취소로 인한 잔여 티켓은 수시 오픈 예정입니다&nbsp;</strong></mark></p><figure class=\"image\"><a href=\"https://worldsmarathons.com/marathon/garmin-run-korea\"><img style=\"aspect-ratio:1080/186;\" src=\"https://storage.runable.me/main/f42f18a8-cad5-4aa1-b033-03f6cdf1d92c_1.jpg\" width=\"1080\" height=\"186\"></a></figure><figure class=\"image\"><img style=\"aspect-ratio:1080/22352;\" src=\"https://storage.runable.me/main/e3f67eb5-bad7-48eb-a234-26f5fd861dfc_260826_26 가민런-추가접수-인앱-상세페이지.jpg\" width=\"1080\" height=\"22352\"></figure>",
+   "saleStartDateTime": "2026-09-03T14:00:00",
+   "saleEndDateTime": "2026-09-30T17:00:00",
+   "participationEndDate": "2026-09-30T17:00:00",
+   "compStartDateTime": "2026-11-15T08:00:00",
+   "cancellationEndDate": "2026-09-30T17:00:00",
+   "productFileImage": [
+    {
+     "id": 3122,
+     "category": "THUMBNAIL",
+     "fullImagePath": "/var/lib/efs/record/61deae0f-f39d-499b-aa23-387072d60ba5_260826_26 가민런-추가접수-인앱-정방형 썸네일.jpg",
+     "thumbnailPath": "/var/lib/efs/record/61deae0f-f39d-499b-aa23-387072d60ba5_260826_26 가민런-추가접수-인앱-정방형 썸네일.jpg"
+    }
+   ],
+   "productEvents": [
+    {
+     "id": 19628,
+     "storeEventId": 18963,
+     "isUse": true,
+     "price": 80000,
+     "quantity": 5,
+     "isDutyFree": false,
+     "isMyParticipation": null,
+     "productEventFileImage": null,
+     "compEvent": {
+      "id": 18963,
+      "compId": 18962,
+      "eventInOrder": 1,
+      "eventName": "HALF",
+      "distance": 21.0975,
+      "limitBirthDate": "2008-11-15",
+      "compEventFileImage": null,
+      "isDeleted": false
+     },
+     "productEventGiftRelations": [
+      {
+       "id": 1541,
+       "isUse": true,
+       "inOrder": 0,
+       "gift": {
+        "id": 19025,
+        "name": "2026 GARMIN RUN KOREA 목표기록(하프)",
+        "type": "PHYSICAL",
+        "classified": "목표기록(하프)",
+        "memo": "목표기록(하프)",
+        "dtlFlag": true,
+        "dtlContents": null,
+        "stock": 0,
+        "supplyPrice": null,
+        "salePrice": null,
+        "createDateTime": "2026-06-01T09:25:35.383365",
+        "compGiftFileImages": [
+         {
+          "id": 2900,
+          "category": "THUMBNAIL",
+          "fullImagePath": "/var/lib/efs/record/15406e47-157f-44e3-ae8e-8062805caa90_260527-26_가민런-일반접수-인앱-정방형 썸네일.jpg",
+          "thumbnailPath": "/var/lib/efs/record/15406e47-157f-44e3-ae8e-8062805caa90_260527-26_가민런-일반접수-인앱-정방형 썸네일.jpg"
+         },
+         {
+          "id": 2901,
+          "category": "REP_IMAGE",
+          "fullImagePath": "/var/lib/efs/record/6d300b4e-efbf-4971-ab28-81e8bf7d1bbc_260527-26_가민런-일반접수-인앱-정방형 썸네일.jpg",
+          "thumbnailPath": "/var/lib/efs/record/6d300b4e-efbf-4971-ab28-81e8bf7d1bbc_260527-26_가민런-일반접수-인앱-정방형 썸네일.jpg"
+         }
+        ],
+        "giftCategory": {
+         "id": 657,
+         "name": "목표기록(하프)",
+         "description": "목표기록(하프)",
+         "giftId": null
+        },
+        "giftOption": {
+         "id": 658,
+         "giftId": null,
+         "isUse": true,
+         "optionArray": [
+          "목표기록"
+         ]
+        },
+        "giftOptionItems": [
+         {
+          "id": 1445,
+          "giftId": 19025,
+          "idx": 0,
+          "name": "2026 GARMIN RUN KOREA 목표기록(하프)",
+          "quantity": 0,
+          "stock": 0,
+          "isInventory": false,
+          "isUse": true,
+          "isDeleted": false,
+          "optionJson": {
+           "key1": "목표기록",
+           "key2": "",
+           "value1": "하프 1:30:00 이내",
+           "value2": ""
+          },
+          "salesStock": 0,
+          "productGiftRelId": null,
+          "childGroupByList": []
+         },
+         {
+          "id": 1446,
+          "giftId": 19025,
+          "idx": 1,
+          "name": "2026 GARMIN RUN KOREA 목표기록(하프)",
+          "quantity": 0,
+          "stock": 0,
+          "isInventory": false,
+          "isUse": true,
+          "isDeleted": false,
+          "optionJson": {
+           "key1": "목표기록",
+           "key2": "",
+           "value1": "하프 1:50:00 이내",
+           "value2": ""
+          },
+          "salesStock": 0,
+          "productGiftRelId": null,
+          "childGroupByList": []
+         },
+         {
+          "id": 1448,
+          "giftId": 19025,
+          "idx": 3,
+          "name": "2026 GARMIN RUN KOREA 목표기록(하프)",
+          "quantity": 0,
+          "stock": 0,
+          "isInventory": false,
+          "isUse": true,
+          "isDeleted": false,
+          "optionJson": {
+           "key1": "목표기록",
+           "key2": "",
+           "value1": "하프 2:10:00 초과",
+           "value2": ""
+          },
+          "salesStock": 0,
+          "productGiftRelId": null,
+          "childGroupByList": []
+         },
+         {
+          "id": 1447,
+          "giftId": 19025,
+          "idx": 2,
+          "name": "2026 GARMIN RUN KOREA 목표기록(하프)",
+          "quantity": 0,
+          "stock": 0,
+          "isInventory": false,
+          "isUse": true,
+          "isDeleted": false,
+          "optionJson": {
+           "key1": "목표기록",
+           "key2": "",
+           "value1": "하프 2:10:00 이내",
+           "value2": ""
+          },
+          "salesStock": 0,
+          "productGiftRelId": null,
+          "childGroupByList": []
+         }
+        ]
+       }
+      },
+      {
+       "id": 1542,
+       "isUse": true,
+       "inOrder": 1,
+       "gift": {
+        "id": 18984,
+        "name": "2026 GARMIN RUN KOREA 싱글렛",
+        "type": "PHYSICAL",
+        "classified": "싱글렛",
+        "memo": "하프",
+        "dtlFlag": true,
+        "dtlContents": "<p>null</p>",
+        "stock": 994,
+        "supplyPrice": null,
+        "salePrice": null,
+        "createDateTime": "2026-05-28T13:04:49.530478",
+        "compGiftFileImages": [
+         {
+          "id": 2885,
+          "category": "THUMBNAIL",
+          "fullImagePath": "/var/lib/efs/record/452820aa-fe0b-4e02-8ebb-f6fba6ab4cc0_260527-26_가민런-일반접수-인앱-정방형 썸네일.jpg",
+          "thumbnailPath": "/var/lib/efs/record/452820aa-fe0b-4e02-8ebb-f6fba6ab4cc0_260527-26_가민런-일반접수-인앱-정방형 썸네일.jpg"
+         },
+         {
+          "id": 2886,
+          "category": "REP_IMAGE",
+          "fullImagePath": "/var/lib/efs/record/49d152ca-c44a-45b6-84f4-29d53421ea29_260527-26_가민런-일반접수-인앱-정방형 썸네일.jpg",
+          "thumbnailPath": "/var/lib/efs/record/49d152ca-c44a-45b6-84f4-29d53421ea29_260527-26_가민런-일반접수-인앱-정방형 썸네일.jpg"
+         }
+        ],
+        "giftCategory": {
+         "id": 655,
+         "name": "싱글렛",
+         "description": "하프",
+         "giftId": null
+        },
+        "giftOption": {
+         "id": 656,
+         "giftId": null,
+         "isUse": true,
+         "optionArray": []
+        },
+        "giftOptionItems": [
+         {
+          "id": 1478,
+          "giftId": 18984,
+          "idx": 5,
+          "name": "2026 GARMIN RUN KOREA 싱글렛",
+          "quantity": 180,
+          "stock": 170,
+          "isInventory": true,
+          "isUse": true,
+          "isDeleted": false,
+          "optionJson": {
+           "key1": "",
+           "key2": "",
+           "value1": "여성 S",
+           "value2": ""
+          },
+          "salesStock": 0,
+          "productGiftRelId": null,
+          "childGroupByList": [
+           {
+            "id": 1478,
+            "giftId": 18984,
+            "idx": 5,
+            "name": "2026 GARMIN RUN KOREA 싱글렛",
+            "quantity": 180,
+            "stock": 85,
+            "isInventory": true,
+            "isUse": true,
+            "isDeleted": false,
+            "optionJson": {
+             "key1": "",
+             "key2": "",
+             "value1": "여성 S",
+             "value2": ""
+            },
+            "salesStock": 0,
+            "productGiftRelId": null,
+            "childGroupByList": null
+           },
+           {
+            "id": 1478,
+            "giftId": 18984,
+            "idx": 5,
+            "name": "2026 GARMIN RUN KOREA 싱글렛",
+            "quantity": 180,
+            "stock": 170,
+            "isInventory": true,
+            "isUse": true,
+            "isDeleted": false,
+            "optionJson": {
+             "key1": "",
+             "key2": "",
+             "value1": "여성 S",
+             "value2": ""
+            },
+            "salesStock": 0,
+            "productGiftRelId": null,
+            "childGroupByList": null
+           }
+          ]
+         },
+         {
+          "id": 1438,
+          "giftId": 18984,
+          "idx": 3,
+          "name": "2026 GARMIN RUN KOREA 싱글렛",
+          "quantity": 470,
+          "stock": 136,
+          "isInventory": true,
+          "isUse": true,
+          "isDeleted": false,
+          "optionJson": {
+           "key1": "",
+           "key2": "",
+           "value1": "남성 XL",
+           "value2": ""
+          },
+          "salesStock": 0,
+          "productGiftRelId": null,
+          "childGroupByList": [
+           {
+            "id": 1438,
+            "giftId": 18984,
+            "idx": 3,
+            "name": "2026 GARMIN RUN KOREA 싱글렛",
+            "quantity": 470,
+            "stock": 68,
+            "isInventory": true,
+            "isUse": true,
+            "isDeleted": false,
+            "optionJson": {
+             "key1": "",
+             "key2": "",
+             "value1": "남성 XL",
+             "value2": ""
+            },
+            "salesStock": 0,
+            "productGiftRelId": null,
+            "childGroupByList": null
+           },
+           {
+            "id": 1438,
+            "giftId": 18984,
+            "idx": 3,
+            "name": "2026 GARMIN RUN KOREA 싱글렛",
+            "quantity": 470,
+            "stock": 136,
+            "isInventory": true,
+            "isUse": true,
+            "isDeleted": false,
+            "optionJson": {
+             "key1": "",
+             "key2": "",
+             "value1": "남성 XL",
+             "value2": ""
+            },
+            "salesStock": 0,
+            "productGiftRelId": null,
+            "childGroupByList": null
+           }
+          ]
+         },
+         {
+          "id": 1436,
+          "giftId": 18984,
+          "idx": 1,
+          "name": "2026 GARMIN RUN KOREA 싱글렛",
+          "quantity": 277,
+          "stock": 140,
+          "isInventory": true,
+          "isUse": true,
+          "isDeleted": false,
+          "optionJson": {
+           "key1": "",
+           "key2": "",
+           "value1": "남성 M",
+           "value2": ""
+          },
+          "salesStock": 0,
+          "productGiftRelId": null,
+          "childGroupByList": [
+           {
+            "id": 1436,
+            "giftId": 18984,
+            "idx": 1,
+            "name": "2026 GARMIN RUN KOREA 싱글렛",
+            "quantity": 277,
+            "stock": 70,
+            "isInventory": true,
+            "isUse": true,
+            "isDeleted": false,
+            "optionJson": {
+             "key1": "",
+             "key2": "",
+             "value1": "남성 M",
+             "value2": ""
+            },
+            "salesStock": 0,
+            "productGiftRelId": null,
+            "childGroupByList": null
+           },
+           {
+            "id": 1436,
+            "giftId": 18984,
+            "idx": 1,
+            "name": "2026 GARMIN RUN KOREA 싱글렛",
+            "quantity": 277,
+            "stock": 140,
+            "isInventory": true,
+            "isUse": true,
+            "isDeleted": false,
+            "optionJson": {
+             "key1": "",
+             "key2": "",
+             "value1": "남성 M",
+             "value2": ""
+            },
+            "salesStock": 0,
+            "productGiftRelId": null,
+            "childGroupByList": null
+           }
+          ]
+         },
+         {
+          "id": 1437,
+          "giftId": 18984,
+          "idx": 2,
+          "name": "2026 GARMIN RUN KOREA 싱글렛",
+          "quantity": 595,
+          "stock": 206,
+          "isInventory": true,
+          "isUse": true,
+          "isDeleted": false,
+          "optionJson": {
+           "key1": "",
+           "key2": "",
+           "value1": "남성 L",
+           "value2": ""
+          },
+          "salesStock": 0,
+          "productGiftRelId": null,
+          "childGroupByList": [
+           {
+            "id": 1437,
+            "giftId": 18984,
+            "idx": 2,
+            "name": "2026 GARMIN RUN KOREA 싱글렛",
+            "quantity": 595,
+            "stock": 103,
+            "isInventory": true,
+            "isUse": true,
+            "isDeleted": false,
+            "optionJson": {
+             "key1": "",
+             "key2": "",
+             "value1": "남성 L",
+             "value2": ""
+            },
+            "salesStock": 0,
+            "productGiftRelId": null,
+            "childGroupByList": null
+           },
+           {
+            "id": 1437,
+            "giftId": 18984,
+            "idx": 2,
+            "name": "2026 GARMIN RUN KOREA 싱글렛",
+            "quantity": 595,
+            "stock": 206,
+            "isInventory": true,
+            "isUse": true,
+            "isDeleted": false,
+            "optionJson": {
+             "key1": "",
+             "key2": "",
+             "value1": "남성 L",
+             "value2": ""
+            },
+            "salesStock": 0,
+            "productGiftRelId": null,
+            "childGroupByList": null
+           }
+          ]
+         },
+         {
+          "id": 1480,
+          "giftId": 18984,
+          "idx": 7,
+          "name": "2026 GARMIN RUN KOREA 싱글렛",
+          "quantity": 75,
+          "stock": 74,
+          "isInventory": true,
+          "isUse": true,
+          "isDeleted": false,
+          "optionJson": {
+           "key1": "",
+           "key2": "",
+           "value1": "여성 L",
+           "value2": ""
+          },
+          "salesStock": 0,
+          "productGiftRelId": null,
+          "childGroupByList": [
+           {
+            "id": 1480,
+            "giftId": 18984,
+            "idx": 7,
+            "name": "2026 GARMIN RUN KOREA 싱글렛",
+            "quantity": 75,
+            "stock": 37,
+            "isInventory": true,
+            "isUse": true,
+            "isDeleted": false,
+            "optionJson": {
+             "key1": "",
+             "key2": "",
+             "value1": "여성 L",
+             "value2": ""
+            },
+            "salesStock": 0,
+            "productGiftRelId": null,
+            "childGroupByList": null
+           },
+           {
+            "id": 1480,
+            "giftId": 18984,
+            "idx": 7,
+            "name": "2026 GARMIN RUN KOREA 싱글렛",
+            "quantity": 75,
+            "stock": 74,
+            "isInventory": true,
+            "isUse": true,
+            "isDeleted": false,
+            "optionJson": {
+             "key1": "",
+             "key2": "",
+             "value1": "여성 L",
+             "value2": ""
+            },
+            "salesStock": 0,
+            "productGiftRelId": null,
+            "childGroupByList": null
+           }
+          ]
+         },
+         {
+          "id": 1439,
+          "giftId": 18984,
+          "idx": 4,
+          "name": "2026 GARMIN RUN KOREA 싱글렛",
+          "quantity": 150,
+          "stock": 50,
+          "isInventory": true,
+          "isUse": true,
+          "isDeleted": false,
+          "optionJson": {
+           "key1": "",
+           "key2": "",
+           "value1": "남성 2XL",
+           "value2": ""
+          },
+          "salesStock": 0,
+          "productGiftRelId": null,
+          "childGroupByList": [
+           {
+            "id": 1439,
+            "giftId": 18984,
+            "idx": 4,
+            "name": "2026 GARMIN RUN KOREA 싱글렛",
+            "quantity": 150,
+            "stock": 25,
+            "isInventory": true,
+            "isUse": true,
+            "isDeleted": false,
+            "optionJson": {
+             "key1": "",
+             "key2": "",
+             "value1": "남성 2XL",
+             "value2": ""
+            },
+            "salesStock": 0,
+            "productGiftRelId": null,
+            "childGroupByList": null
+           },
+           {
+            "id": 1439,
+            "giftId": 18984,
+            "idx": 4,
+            "name": "2026 GARMIN RUN KOREA 싱글렛",
+            "quantity": 150,
+            "stock": 50,
+            "isInventory": true,
+            "isUse": true,
+            "isDeleted": false,
+            "optionJson": {
+             "key1": "",
+             "key2": "",
+             "value1": "남성 2XL",
+             "value2": ""
+            },
+            "salesStock": 0,
+            "productGiftRelId": null,
+            "childGroupByList": null
+           }
+          ]
+         },
+         {
+          "id": 1435,
+          "giftId": 18984,
+          "idx": 0,
+          "name": "2026 GARMIN RUN KOREA 싱글렛",
+          "quantity": 20,
+          "stock": 0,
+          "isInventory": true,
+          "isUse": true,
+          "isDeleted": false,
+          "optionJson": {
+           "key1": "",
+           "key2": "",
+           "value1": "남성 S",
+           "value2": ""
+          },
+          "salesStock": 0,
+          "productGiftRelId": null,
+          "childGroupByList": [
+           {
+            "id": 1435,
+            "giftId": 18984,
+            "idx": 0,
+            "name": "2026 GARMIN RUN KOREA 싱글렛",
+            "quantity": 20,
+            "stock": 0,
+            "isInventory": true,
+            "isUse": true,
+            "isDeleted": false,
+            "optionJson": {
+             "key1": "",
+             "key2": "",
+             "value1": "남성 S",
+             "value2": ""
+            },
+            "salesStock": 0,
+            "productGiftRelId": null,
+            "childGroupByList": null
+           },
+           {
+            "id": 1435,
+            "giftId": 18984,
+            "idx": 0,
+            "name": "2026 GARMIN RUN KOREA 싱글렛",
+            "quantity": 20,
+            "stock": 0,
+            "isInventory": true,
+            "isUse": true,
+            "isDeleted": false,
+            "optionJson": {
+             "key1": "",
+             "key2": "",
+             "value1": "남성 S",
+             "value2": ""
+            },
+            "salesStock": 0,
+            "productGiftRelId": null,
+            "childGroupByList": null
+           }
+          ]
+         },
+         {
+          "id": 1479,
+          "giftId": 18984,
+          "idx": 6,
+          "name": "2026 GARMIN RUN KOREA 싱글렛",
+          "quantity": 203,
+          "stock": 218,
+          "isInventory": true,
+          "isUse": true,
+          "isDeleted": false,
+          "optionJson": {
+           "key1": "",
+           "key2": "",
+           "value1": "여성 M",
+           "value2": ""
+          },
+          "salesStock": 0,
+          "productGiftRelId": null,
+          "childGroupByList": [
+           {
+            "id": 1479,
+            "giftId": 18984,
+            "idx": 6,
+            "name": "2026 GARMIN RUN KOREA 싱글렛",
+            "quantity": 203,
+            "stock": 109,
+            "isInventory": true,
+            "isUse": true,
+            "isDeleted": false,
+            "optionJson": {
+             "key1": "",
+             "key2": "",
+             "value1": "여성 M",
+             "value2": ""
+            },
+            "salesStock": 0,
+            "productGiftRelId": null,
+            "childGroupByList": null
+           },
+           {
+            "id": 1479,
+            "giftId": 18984,
+            "idx": 6,
+            "name": "2026 GARMIN RUN KOREA 싱글렛",
+            "quantity": 203,
+            "stock": 218,
+            "isInventory": true,
+            "isUse": true,
+            "isDeleted": false,
+            "optionJson": {
+             "key1": "",
+             "key2": "",
+             "value1": "여성 M",
+             "value2": ""
+            },
+            "salesStock": 0,
+            "productGiftRelId": null,
+            "childGroupByList": null
+           }
+          ]
+         }
+        ]
+       }
+      }
+     ],
+     "isDeleted": false,
+     "stock": {
+      "count": 0
+     },
+     "partnershipStock": {}
+    },
+    {
+     "id": 19631,
+     "storeEventId": 18968,
+     "isUse": false,
+     "price": 0,
+     "quantity": 0,
+     "isDutyFree": false,
+     "isMyParticipation": null,
+     "productEventFileImage": null,
+     "compEvent": {
+      "id": 18968,
+      "compId": 18962,
+      "eventInOrder": 4,
+      "eventName": "10K+가민 포러너70",
+      "distance": 10,
+      "limitBirthDate": "2012-11-15",
+      "compEventFileImage": null,
+      "isDeleted": false
+     },
+     "productEventGiftRelations": null,
+     "isDeleted": false,
+     "stock": {
+      "count": 0
+     },
+     "partnershipStock": {}
+    },
+    {
+     "id": 19629,
+     "storeEventId": 18964,
+     "isUse": true,
+     "price": 60000,
+     "quantity": 5,
+     "isDutyFree": false,
+     "isMyParticipation": null,
+     "productEventFileImage": null,
+     "compEvent": {
+      "id": 18964,
+      "compId": 18962,
+      "eventInOrder": 2,
+      "eventName": "10K",
+      "distance": 10,
+      "limitBirthDate": "2012-11-15",
+      "compEventFileImage": null,
+      "isDeleted": false
+     },
+     "productEventGiftRelations": [
+      {
+       "id": 1543,
+       "isUse": true,
+       "inOrder": 0,
+       "gift": {
+        "id": 19028,
+        "name": "2026 GARMIN RUN KOREA 목표기록(10K)",
+        "type": "PHYSICAL",
+        "classified": "목표기록(10K)",
+        "memo": "목표기록(10K)",
+        "dtlFlag": true,
+        "dtlContents": "<p>null</p>",
+        "stock": 0,
+        "supplyPrice": null,
+        "salePrice": null,
+        "createDateTime": "2026-06-01T09:26:56.066063",
+        "compGiftFileImages": [
+         {
+          "id": 2902,
+          "category": "THUMBNAIL",
+          "fullImagePath": "/var/lib/efs/record/37f6c4a4-fbca-412f-ae25-dedcbf79cd39_260527-26_가민런-일반접수-인앱-정방형 썸네일.jpg",
+          "thumbnailPath": "/var/lib/efs/record/37f6c4a4-fbca-412f-ae25-dedcbf79cd39_260527-26_가민런-일반접수-인앱-정방형 썸네일.jpg"
+         },
+         {
+          "id": 2903,
+          "category": "REP_IMAGE",
+          "fullImagePath": "/var/lib/efs/record/a118d569-c692-4d2c-aa02-f226f2a8f88c_260527-26_가민런-일반접수-인앱-정방형 썸네일.jpg",
+          "thumbnailPath": "/var/lib/efs/record/a118d569-c692-4d2c-aa02-f226f2a8f88c_260527-26_가민런-일반접수-인앱-정방형 썸네일.jpg"
+         }
+        ],
+        "giftCategory": {
+         "id": 658,
+         "name": "목표기록(10K)",
+         "description": "목표기록(10K)",
+         "giftId": null
+        },
+        "giftOption": {
+         "id": 659,
+         "giftId": null,
+         "isUse": true,
+         "optionArray": [
+          "목표기록"
+         ]
+        },
+        "giftOptionItems": [
+         {
+          "id": 1450,
+          "giftId": 19028,
+          "idx": 1,
+          "name": "2026 GARMIN RUN KOREA 목표기록(10K)",
+          "quantity": 0,
+          "stock": 0,
+          "isInventory": false,
+          "isUse": true,
+          "isDeleted": false,
+          "optionJson": {
+           "key1": "목표기록",
+           "key2": "",
+           "value1": "10K 55:00 이내",
+           "value2": ""
+          },
+          "salesStock": 0,
+          "productGiftRelId": null,
+          "childGroupByList": []
+         },
+         {
+          "id": 1451,
+          "giftId": 19028,
+          "idx": 2,
+          "name": "2026 GARMIN RUN KOREA 목표기록(10K)",
+          "quantity": 0,
+          "stock": 0,
+          "isInventory": false,
+          "isUse": true,
+          "isDeleted": false,
+          "optionJson": {
+           "key1": "목표기록",
+           "key2": "",
+           "value1": "10K 55:00 초과",
+           "value2": ""
+          },
+          "salesStock": 0,
+          "productGiftRelId": null,
+          "childGroupByList": []
+         },
+         {
+          "id": 1449,
+          "giftId": 19028,
+          "idx": 0,
+          "name": "2026 GARMIN RUN KOREA 목표기록(10K)",
+          "quantity": 0,
+          "stock": 0,
+          "isInventory": false,
+          "isUse": true,
+          "isDeleted": false,
+          "optionJson": {
+           "key1": "목표기록",
+           "key2": "",
+           "value1": "10K 45:00 이내",
+           "value2": ""
+          },
+          "salesStock": 0,
+          "productGiftRelId": null,
+          "childGroupByList": []
+         }
+        ]
+       }
+      },
+      {
+       "id": 1544,
+       "isUse": true,
+       "inOrder": 1,
+       "gift": {
+        "id": 18985,
+        "name": "2026 GARMIN RUN KOREA 티셔츠",
+        "type": "PHYSICAL",
+        "classified": "티셔츠",
+        "memo": "10K",
+        "dtlFlag": true,
+        "dtlContents": "<p>null</p>",
+        "stock": 216,
+        "supplyPrice": null,
+        "salePrice": null,
+        "createDateTime": "2026-05-28T13:06:13.397133",
+        "compGiftFileImages": [
+         {
+          "id": 2887,
+          "category": "THUMBNAIL",
+          "fullImagePath": "/var/lib/efs/record/0dd0875d-de79-4896-9191-7a986090e40d_260527-26_가민런-일반접수-인앱-정방형 썸네일.jpg",
+          "thumbnailPath": "/var/lib/efs/record/0dd0875d-de79-4896-9191-7a986090e40d_260527-26_가민런-일반접수-인앱-정방형 썸네일.jpg"
+         },
+         {
+          "id": 2888,
+          "category": "REP_IMAGE",
+          "fullImagePath": "/var/lib/efs/record/1ea6a63c-af3a-484e-a62c-d6067eaa611d_260527-26_가민런-일반접수-인앱-정방형 썸네일.jpg",
+          "thumbnailPath": "/var/lib/efs/record/1ea6a63c-af3a-484e-a62c-d6067eaa611d_260527-26_가민런-일반접수-인앱-정방형 썸네일.jpg"
+         }
+        ],
+        "giftCategory": {
+         "id": 656,
+         "name": "티셔츠",
+         "description": "10K",
+         "giftId": null
+        },
+        "giftOption": {
+         "id": 657,
+         "giftId": null,
+         "isUse": true,
+         "optionArray": [
+          "티셔츠 사이즈"
+         ]
+        },
+        "giftOptionItems": [
+         {
+          "id": 1440,
+          "giftId": 18985,
+          "idx": 0,
+          "name": "2026 GARMIN RUN KOREA 티셔츠",
+          "quantity": 63,
+          "stock": 54,
+          "isInventory": true,
+          "isUse": true,
+          "isDeleted": false,
+          "optionJson": {
+           "key1": "티셔츠 사이즈",
+           "key2": "",
+           "value1": "S",
+           "value2": ""
+          },
+          "salesStock": 0,
+          "productGiftRelId": null,
+          "childGroupByList": [
+           {
+            "id": 1440,
+            "giftId": 18985,
+            "idx": 0,
+            "name": "2026 GARMIN RUN KOREA 티셔츠",
+            "quantity": 63,
+            "stock": 27,
+            "isInventory": true,
+            "isUse": true,
+            "isDeleted": false,
+            "optionJson": {
+             "key1": "티셔츠 사이즈",
+             "key2": "",
+             "value1": "S",
+             "value2": ""
+            },
+            "salesStock": 0,
+            "productGiftRelId": null,
+            "childGroupByList": null
+           },
+           {
+            "id": 1440,
+            "giftId": 18985,
+            "idx": 0,
+            "name": "2026 GARMIN RUN KOREA 티셔츠",
+            "quantity": 63,
+            "stock": 54,
+            "isInventory": true,
+            "isUse": true,
+            "isDeleted": false,
+            "optionJson": {
+             "key1": "티셔츠 사이즈",
+             "key2": "",
+             "value1": "S",
+             "value2": ""
+            },
+            "salesStock": 0,
+            "productGiftRelId": null,
+            "childGroupByList": null
+           }
+          ]
+         },
+         {
+          "id": 1444,
+          "giftId": 18985,
+          "idx": 4,
+          "name": "2026 GARMIN RUN KOREA 티셔츠",
+          "quantity": 63,
+          "stock": 22,
+          "isInventory": true,
+          "isUse": true,
+          "isDeleted": false,
+          "optionJson": {
+           "key1": "티셔츠 사이즈",
+           "key2": "",
+           "value1": "2XL",
+           "value2": ""
+          },
+          "salesStock": 0,
+          "productGiftRelId": null,
+          "childGroupByList": [
+           {
+            "id": 1444,
+            "giftId": 18985,
+            "idx": 4,
+            "name": "2026 GARMIN RUN KOREA 티셔츠",
+            "quantity": 63,
+            "stock": 11,
+            "isInventory": true,
+            "isUse": true,
+            "isDeleted": false,
+            "optionJson": {
+             "key1": "티셔츠 사이즈",
+             "key2": "",
+             "value1": "2XL",
+             "value2": ""
+            },
+            "salesStock": 0,
+            "productGiftRelId": null,
+            "childGroupByList": null
+           },
+           {
+            "id": 1444,
+            "giftId": 18985,
+            "idx": 4,
+            "name": "2026 GARMIN RUN KOREA 티셔츠",
+            "quantity": 63,
+            "stock": 22,
+            "isInventory": true,
+            "isUse": true,
+            "isDeleted": false,
+            "optionJson": {
+             "key1": "티셔츠 사이즈",
+             "key2": "",
+             "value1": "2XL",
+             "value2": ""
+            },
+            "salesStock": 0,
+            "productGiftRelId": null,
+            "childGroupByList": null
+           }
+          ]
+         },
+         {
+          "id": 1442,
+          "giftId": 18985,
+          "idx": 2,
+          "name": "2026 GARMIN RUN KOREA 티셔츠",
+          "quantity": 141,
+          "stock": 34,
+          "isInventory": true,
+          "isUse": true,
+          "isDeleted": false,
+          "optionJson": {
+           "key1": "티셔츠 사이즈",
+           "key2": "",
+           "value1": "L",
+           "value2": ""
+          },
+          "salesStock": 0,
+          "productGiftRelId": null,
+          "childGroupByList": [
+           {
+            "id": 1442,
+            "giftId": 18985,
+            "idx": 2,
+            "name": "2026 GARMIN RUN KOREA 티셔츠",
+            "quantity": 141,
+            "stock": 17,
+            "isInventory": true,
+            "isUse": true,
+            "isDeleted": false,
+            "optionJson": {
+             "key1": "티셔츠 사이즈",
+             "key2": "",
+             "value1": "L",
+             "value2": ""
+            },
+            "salesStock": 0,
+            "productGiftRelId": null,
+            "childGroupByList": null
+           },
+           {
+            "id": 1442,
+            "giftId": 18985,
+            "idx": 2,
+            "name": "2026 GARMIN RUN KOREA 티셔츠",
+            "quantity": 141,
+            "stock": 34,
+            "isInventory": true,
+            "isUse": true,
+            "isDeleted": false,
+            "optionJson": {
+             "key1": "티셔츠 사이즈",
+             "key2": "",
+             "value1": "L",
+             "value2": ""
+            },
+            "salesStock": 0,
+            "productGiftRelId": null,
+            "childGroupByList": null
+           }
+          ]
+         },
+         {
+          "id": 1441,
+          "giftId": 18985,
+          "idx": 1,
+          "name": "2026 GARMIN RUN KOREA 티셔츠",
+          "quantity": 108,
+          "stock": 34,
+          "isInventory": true,
+          "isUse": true,
+          "isDeleted": false,
+          "optionJson": {
+           "key1": "티셔츠 사이즈",
+           "key2": "",
+           "value1": "M",
+           "value2": ""
+          },
+          "salesStock": 0,
+          "productGiftRelId": null,
+          "childGroupByList": [
+           {
+            "id": 1441,
+            "giftId": 18985,
+            "idx": 1,
+            "name": "2026 GARMIN RUN KOREA 티셔츠",
+            "quantity": 108,
+            "stock": 17,
+            "isInventory": true,
+            "isUse": true,
+            "isDeleted": false,
+            "optionJson": {
+             "key1": "티셔츠 사이즈",
+             "key2": "",
+             "value1": "M",
+             "value2": ""
+            },
+            "salesStock": 0,
+            "productGiftRelId": null,
+            "childGroupByList": null
+           },
+           {
+            "id": 1441,
+            "giftId": 18985,
+            "idx": 1,
+            "name": "2026 GARMIN RUN KOREA 티셔츠",
+            "quantity": 108,
+            "stock": 34,
+            "isInventory": true,
+            "isUse": true,
+            "isDeleted": false,
+            "optionJson": {
+             "key1": "티셔츠 사이즈",
+             "key2": "",
+             "value1": "M",
+             "value2": ""
+            },
+            "salesStock": 0,
+            "productGiftRelId": null,
+            "childGroupByList": null
+           }
+          ]
+         },
+         {
+          "id": 1443,
+          "giftId": 18985,
+          "idx": 3,
+          "name": "2026 GARMIN RUN KOREA 티셔츠",
+          "quantity": 125,
+          "stock": 72,
+          "isInventory": true,
+          "isUse": true,
+          "isDeleted": false,
+          "optionJson": {
+           "key1": "티셔츠 사이즈",
+           "key2": "",
+           "value1": "XL",
+           "value2": ""
+          },
+          "salesStock": 0,
+          "productGiftRelId": null,
+          "childGroupByList": [
+           {
+            "id": 1443,
+            "giftId": 18985,
+            "idx": 3,
+            "name": "2026 GARMIN RUN KOREA 티셔츠",
+            "quantity": 125,
+            "stock": 36,
+            "isInventory": true,
+            "isUse": true,
+            "isDeleted": false,
+            "optionJson": {
+             "key1": "티셔츠 사이즈",
+             "key2": "",
+             "value1": "XL",
+             "value2": ""
+            },
+            "salesStock": 0,
+            "productGiftRelId": null,
+            "childGroupByList": null
+           },
+           {
+            "id": 1443,
+            "giftId": 18985,
+            "idx": 3,
+            "name": "2026 GARMIN RUN KOREA 티셔츠",
+            "quantity": 125,
+            "stock": 72,
+            "isInventory": true,
+            "isUse": true,
+            "isDeleted": false,
+            "optionJson": {
+             "key1": "티셔츠 사이즈",
+             "key2": "",
+             "value1": "XL",
+             "value2": ""
+            },
+            "salesStock": 0,
+            "productGiftRelId": null,
+            "childGroupByList": null
+           }
+          ]
+         }
+        ]
+       }
+      }
+     ],
+     "isDeleted": false,
+     "stock": {
+      "count": 0
+     },
+     "partnershipStock": {}
+    },
+    {
+     "id": 19630,
+     "storeEventId": 18965,
+     "isUse": false,
+     "price": 0,
+     "quantity": 0,
+     "isDutyFree": false,
+     "isMyParticipation": null,
+     "productEventFileImage": null,
+     "compEvent": {
+      "id": 18965,
+      "compId": 18962,
+      "eventInOrder": 3,
+      "eventName": "HALF+가민 포러너170",
+      "distance": 21.0975,
+      "limitBirthDate": "2008-11-15",
+      "compEventFileImage": null,
+      "isDeleted": false
+     },
+     "productEventGiftRelations": null,
+     "isDeleted": false,
+     "stock": {
+      "count": 0
+     },
+     "partnershipStock": {}
+    }
+   ],
+   "productCompStore": {
+    "id": 18962,
+    "name": "2026 GARMIN RUN KOREA",
+    "type": "PARTNERSHIP",
+    "isPost": true,
+    "isFigure": true,
+    "status": null,
+    "summary": null,
+    "country": "KR",
+    "city": "경기도",
+    "location": "고양종합운동장",
+    "geoUrl": null,
+    "siteUrl": "https://runable.me/product/19627?comp=18962",
+    "isExternal": true,
+    "host": "가민코리아, 러너블",
+    "sponsor": "에이치덱스(HDEX), SK텔레콤, 콘티넨탈타이어, LG gramXAMD, 아미노바이탈, 샥즈,  런드리서핑, 46cm, CU, 네이처밸리, 이온더핏제로, 소노호텔앤리조트, 레이지요거트"
+   },
+   "isRaffle": false,
+   "isFree": false,
+   "createDateTime": "2026-07-08T10:40:39.099445",
+   "visibilityType": "LIST",
+   "inOrder": 100,
+   "isTax": false,
+   "isNotDelivery": false,
+   "insuranceFlag": false,
+   "emergencyFlag": true,
+   "etcFlag": false,
+   "multipleTicketFlag": null,
+   "maxTicketCount": null,
+   "productTermEtcList": null,
+   "valid": true
+  }
+ },
+ "resUuid": "d75b5466-8443-42e5-b1ac-8112c90830fe",
+ "fail": false,
+ "success": true
+}
