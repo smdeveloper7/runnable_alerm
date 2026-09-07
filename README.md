@@ -98,7 +98,7 @@ Chromium 이 열리면 카카오/구글/이메일로 로그인한 뒤 터미널�
 APPLY_EVENT=HALF                     # HALF | 10K
 APPLY_PARTICIPANT_NAME=홍길동
 APPLY_TARGET_TIME=하프 1:50:00 이내    # 10K 는 예: 10K 55:00 이내
-APPLY_SHIRT_SIZE=남성 L              # HALF=싱글렛(남성 S~2XL / 여성 S~L), 10K=티셔츠(S~2XL)
+APPLY_SHIRT_SIZE=남성 XL             # HALF=싱글렛(남성 S~2XL / 여성 S~L), 10K=티셔츠(S~2XL)
 APPLY_RESUME_PREVIOUS=true           # "대회신청을 이어할까요?" 팝업에서 이어하기
 ```
 
